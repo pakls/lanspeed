@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1359533157 source:c:\users\anthonyl\workspace\lanspeed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
